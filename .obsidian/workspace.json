@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "519587d384fb95ba",
@@ -170,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +185,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "5bad453b6b7ee31f",
+  "active": "abae61b3c98318bf",
   "lastOpenFiles": [
+    "images/Pasted image 20260509114638.png",
+    "images/Pasted image 20260509114451.png",
+    "images/Pasted image 20260509112401.png",
     "images/Pasted image 20260506185419.png",
     "images/Pasted image 20260506154941.png",
     "images/Pasted image 20260428160218.png",
