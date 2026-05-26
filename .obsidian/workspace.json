@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,17 +186,20 @@
   },
   "active": "bac00682c895456d",
   "lastOpenFiles": [
+    "1. java入门.md",
+    "2.java进阶.md",
+    "images/Pasted image 20260514155249.png",
+    "images/Pasted image 20260514154728.png",
+    "Pasted image 20260514154639.png",
+    "images/Pasted image 20260514142747.png",
     "videos/static原理.mp4",
     "videos",
-    "2.java进阶.md",
-    "1. java入门.md",
     "images/Pasted image 20260509114638.png",
     "images/Pasted image 20260509114451.png",
     "images/Pasted image 20260509112401.png",
     "images/Pasted image 20260506185419.png",
     "images/Pasted image 20260506154941.png",
     "images/Pasted image 20260428160218.png",
-    "images/Pasted image 20260428143143.png",
     "images"
   ]
 }
