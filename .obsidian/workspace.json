@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28ffa10e5e8e0b18",
+        "id": "938d736427c91c1b",
         "type": "tabs",
         "children": [
           {
-            "id": "26decc0220f564bc",
+            "id": "f36e0368388aa49b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,11 +184,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "26decc0220f564bc",
+  "active": "f36e0368388aa49b",
   "lastOpenFiles": [
     "2.java面向对象进阶.md",
-    "1. java入门.md",
     "3.常用API.md",
+    "1. java入门.md",
     "images/Pasted image 20260514155249.png",
     "images/Pasted image 20260514154728.png",
     "Pasted image 20260514154639.png",
